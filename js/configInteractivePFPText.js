@@ -3,11 +3,12 @@
     let textEntries = ["hey, click me!",
         "do it again!",
         "~clears throat~",
-        "Hi! I'm Isaiah!",
+        "Hi! I'm Cassie!",
         "I'm a software engineer.",
-        "Been in tech for over a year.",
+        "Started out self taught",
+        "Now have a BS in Software Development",
         "Building awesome websites and software with #100devs.",
-        "Nice to meet you, and let's connect!",
+        "Nice to meet you!",
     ];
 
     let index = 0;

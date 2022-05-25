@@ -2,7 +2,8 @@
     // Modifying this array allows you to configure the rotating text. Remember to add the full stop at the end!
     let rotatingTextArray = [
         "Software Engineer.",
-        "Tech Educator.",
+        "Mom.",
+        "Coffee Enthusiast.",
     ];
     
     // Change the duration of the each cycle. Set this value to 0 to disable it. 
