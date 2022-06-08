@@ -1,13 +1,12 @@
 (function () {
-    // When you click on your PFP, your PFP will interact and say something. Make a list for it to say!
+    // PFP text
     let textEntries = ["hey, click me!",
         "do it again!",
-        "~clears throat~",
         "Hi! I'm Cassie!",
         "I'm a software engineer.",
         "Started out self taught",
-        "Now have a BS in Software Development",
-        "Building awesome websites and software with #100devs.",
+        "Now finishing my BS in Software Development",
+        "Building awesome websites and software",
         "Nice to meet you!",
     ];
 

@@ -2,14 +2,14 @@
     // Modifying this array allows you to configure the rotating text. Remember to add the full stop at the end!
     let rotatingTextArray = [
         "Software Engineer.",
-        "Mom.",
+        "Life-long learner.",
         "Coffee Enthusiast.",
     ];
     
     // Change the duration of the each cycle. Set this value to 0 to disable it. 
     let rotatingTextCycleDuration = 2;
     
-    // Don't modify the lines below.
+    
     function getRotatingTextStyleString(inputTextArray) {
         const baseEM = 1.2;
         const baseIntervalPercentage = 1 / inputTextArray.length;
